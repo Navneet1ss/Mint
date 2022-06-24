@@ -3,10 +3,10 @@ A barebones Node.js app using Express 4.
 
 
 
-#Running Locally
+Running Locally
 Pull down repository
 
-git clone https://github.com/treyhboy/Mint.git # or clone your own fork
+git clone https://github.com/Navneet1ss/Mint # or clone your own fork
 cd Mint
 Make sure you have Node.js and MySQL installed.
 
@@ -16,6 +16,8 @@ You can also use Docker to run the app. This will remove the requirement of MySQ
 
 docker-compose up -d
 Your app should now be running on localhost:3100.
+
+
 
 
 
