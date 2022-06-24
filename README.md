@@ -3,7 +3,7 @@ A barebones Node.js app using Express 4.
 
 
 
-Running Locally
+#Running Locally
 Pull down repository
 
 git clone https://github.com/treyhboy/Mint.git # or clone your own fork
