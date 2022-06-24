@@ -24,7 +24,7 @@ Your app should now be running on localhost:3100.
 Screenshots from the app
 About Page
 
-![about](https://user-images.githubusercontent.com/72698663/175622383-095b4101-7d69-4df6-935b-fcd5e7f2edda.png)
 
+![about](https://user-images.githubusercontent.com/72698663/175624747-85d19a5a-afd7-41f3-ac6a-afb08b5bd767.png)
 
 
