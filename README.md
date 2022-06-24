@@ -31,11 +31,12 @@ About Page
 
 Login Page
 
-![login](https://user-images.githubusercontent.com/72698663/175639957-5c1f0cd2-ef84-49dc-808a-5bf91a567e0d.png)
+![login](https://user-images.githubusercontent.com/72698663/175644690-849b5676-d889-4bc9-81ec-51670d2c6e76.png)
 
 
 Main Page
-![main](https://user-images.githubusercontent.com/72698663/175644540-32b4cc85-f17a-4a01-81bd-58959bb5274a.png)
+
+![main](https://user-images.githubusercontent.com/72698663/175644717-78e03177-a2e5-442c-93e4-2c5b89855f4c.png)
 
 
 
