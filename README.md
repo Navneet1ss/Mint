@@ -18,6 +18,13 @@ docker-compose up -d
 Your app should now be running on localhost:3100.
 
 
+Your app should now be running on localhost:3100.
+
+
+Screenshots from the app
+About Page
+
+![about](https://user-images.githubusercontent.com/72698663/175622383-095b4101-7d69-4df6-935b-fcd5e7f2edda.png)
 
 
 
